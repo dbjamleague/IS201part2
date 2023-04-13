@@ -1,0 +1,21 @@
+body {
+    background-color:lightgreen;
+}
+.players_list {
+    font-size:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    max-width:800px;
+  }
+  .players_list ul {
+    list-style-type:square; 
+  }
+.video-container video {
+    padding-left:20px;
+}
+.top_part {
+    text-align: center;
+}
+.image-container{
+    padding-left:550px;
+    width:500px;
+}
